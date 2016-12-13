@@ -1,11 +1,12 @@
 ---
-title: API Reference
+title: X-POS - API Reference
 
 language_tabs:
+  - javascript: Javascript
+  - objective-c: Objective-C
   - shell
   - ruby
-  - python
-  - javascript
+  - python  
 
 toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
@@ -17,7 +18,7 @@ includes:
 search: true
 ---
 
-# Introduction
+# X-POS API Documentation - Introduction
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
@@ -186,4 +187,3 @@ This endpoint retrieves a specific kitten.
 Parameter | Description
 --------- | -----------
 ID | The ID of the kitten to retrieve
-
